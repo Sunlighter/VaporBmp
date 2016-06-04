@@ -35,7 +35,7 @@ Option | Meaning
 `-gm` | Two independent channels, green and magenta.
 `-cgmr` | Two independent channels, cyan-green and magenta-red.
 `-usa` | Two independent channels, red and blue. Green is set to max(red, blue), giving the appearance of red, white, and blue.
-`-xmas` | Two indeendent channels, red and green. Blue is set to max(red, green), giving the appearance of red, white, and green.
+`-xmas` | Two independent channels, red and green. Blue is set to max(red, green), giving the appearance of red, white, and green.
 `-ocean` | Two independent channels, green and blue. Red is set to max(green, blue), giving the appearance of green, white, and blue.
 
 Add an `x` to any of these (e.g., `-oceanx`) to get a weird shimmery effect. (I don't think this works for desktop
